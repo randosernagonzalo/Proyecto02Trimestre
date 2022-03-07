@@ -1,0 +1,19 @@
+{
+    "_id":{
+        "$oid":"6224b841b0c9fb3d4bc6ac26"
+    },
+    "idVenta":1.0,
+    "vendedor":"Real Microinformatica",
+    "comprador":"Instituto Jesus del Granpoder",
+    "fechaVenta":{
+        "$date":"2022-02-22T00:00:00Z"
+    }
+}
+{"_id":{"$oid":"6224b841b0c9fb3d4bc6ac27"},"idVenta":2.0,"vendedor":"Tecnoshop","comprador":"TeyMa","fechaVenta":{"$date":"2022-02-11T00:00:00Z"}}
+{"_id":{"$oid":"6224b841b0c9fb3d4bc6ac28"},"idVenta":3.0,"vendedor":"Mediamark","comprador":"Particular: Joaquin Jimenez","fechaVenta":{"$date":"2022-01-02T00:00:00Z"}}
+{"_id":{"$oid":"6224b841b0c9fb3d4bc6ac29"},"idVenta":4.0,"vendedor":"Informatica Sur","comprador":"Universidad Pablo de Olavide","fechaVenta":{"$date":"2022-03-01T00:00:00Z"}}
+{"_id":{"$oid":"6224b841b0c9fb3d4bc6ac2a"},"idVenta":5.0,"vendedor":"Real Microinformatica","comprador":"Almacenes La Isla","fechaVenta":{"$date":"2022-01-29T00:00:00Z"}}
+{"_id":{"$oid":"6224b841b0c9fb3d4bc6ac2b"},"idVenta":6.0,"vendedor":"Tecnoshop","comprador":"Particular: Manuel Gutierrez","fechaVenta":{"$date":"2022-02-02T00:00:00Z"}}
+{"_id":{"$oid":"6224b841b0c9fb3d4bc6ac2c"},"idVenta":7.0,"vendedor":"Informatica Sur","comprador":"Instituto Jesus del Granpoder","fechaVenta":{"$date":"2022-02-23T00:00:00Z"}}
+{"_id":{"$oid":"6224b841b0c9fb3d4bc6ac2d"},"idVenta":8.0,"vendedor":"Mediamark","comprador":"Particular: Pablo Lopez","fechaVenta":{"$date":"2022-01-07T00:00:00Z"}}
+{"_id":{"$oid":"6224b841b0c9fb3d4bc6ac2e"},"idVenta":9.0,"vendedor":"Trastienda","comprador":"GMT","fechaVenta":{"$date":"2022-01-02T00:00:00Z"}}

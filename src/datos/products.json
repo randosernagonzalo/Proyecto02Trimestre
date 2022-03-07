@@ -1,0 +1,72 @@
+{
+    "_id":{
+        "name":"intel i5 6500k",
+        "idMarca":{
+            "$oid":"6224b849b0c9fb3d4bc6ac3d"
+        }
+    },
+    "noArticulos":1.0
+}
+{"_id":{"name":"amd ryzen 5 2500","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3c"}},"noArticulos":1.0}
+{"_id":{"name":"amd ryzen 9 5950x","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3c"}},"noArticulos":1.0}
+{"_id":{"name":"intel i5 8500k","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3d"}},"noArticulos":1.0}
+{"_id":{"name":"intel i9 9900k","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3d"}},"noArticulos":1.0}
+{"_id":{"name":"amd athlon","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3c"}},"noArticulos":2.0}
+{"_id":{"name":"intel pentium","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3d"}},"noArticulos":1.0}
+{"_id":{"name":"intel i3 6300k","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3d"}},"noArticulos":2.0}
+{"_id":{"name":"amd ryzen 7 4550x","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3c"}},"noArticulos":1.0}
+{"_id":{"name":"intel i7 11700k","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3d"}},"noArticulos":1.0}
+{"_id":{"name":"intel i9 12900k","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3d"}},"noArticulos":1.0}
+{"_id":{"name":"amd ryzen 5 2500 ","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3c"}},"noArticulos":1.0}
+{"_id":{"name":"intel i7 9700k","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3d"}},"noArticulos":2.0}
+{"_id":{"name":"amd ryzen 7 3700x","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3c"}},"noArticulos":1.0}
+{"_id":{"name":"amd ryzen 3 1300","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3c"}},"noArticulos":1.0}
+{"_id":{"name":"amd ryzen 7 2700x","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3c"}},"noArticulos":1.0}
+{"_id":{"name":"amd ryzen 7 3800x","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3c"}},"noArticulos":1.0}
+{"_id":{"name":"intel i9 12900kf","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3d"}},"noArticulos":1.0}
+{"_id":{"name":"nvidia gtx 1060ti","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3a"}},"noArticulos":1.0}
+{"_id":{"name":"nvidia rtx 3090","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3a"}},"noArticulos":2.0}
+{"_id":{"name":"amd radeon 5700xt","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3c"}},"noArticulos":1.0}
+{"_id":{"name":"nvidia gtz 1050ti","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3a"}},"noArticulos":1.0}
+{"_id":{"name":"nvidia rtx 2080ti","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3a"}},"noArticulos":1.0}
+{"_id":{"name":"nvidia rtx 2097ti","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3a"}},"noArticulos":1.0}
+{"_id":{"name":"nvidia rtx 3070 super","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3a"}},"noArticulos":2.0}
+{"_id":{"name":"amd radeon 5500xt","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3c"}},"noArticulos":1.0}
+{"_id":{"name":"amd radeon rx590","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3c"}},"noArticulos":2.0}
+{"_id":{"name":"nvidia rtx 3080ti","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3a"}},"noArticulos":1.0}
+{"_id":{"name":"nvidia rtx 3090ti","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3a"}},"noArticulos":1.0}
+{"_id":{"name":"asus socket lga 1700 atx","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac36"}},"noArticulos":1.0}
+{"_id":{"name":"asrock socket lga 1150 micro atx","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac39"}},"noArticulos":1.0}
+{"_id":{"name":"asus socket lga 1151 atx","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac36"}},"noArticulos":1.0}
+{"_id":{"name":"aorus socket am4 atx","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac38"}},"noArticulos":1.0}
+{"_id":{"name":"msi socket lga 1700 atx","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac35"}},"noArticulos":1.0}
+{"_id":{"name":"asus socket am3 micro atx","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac36"}},"noArticulos":1.0}
+{"_id":{"name":"gigabyte socket am4 atx","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac37"}},"noArticulos":2.0}
+{"_id":{"name":"msi socket am4 micro atx","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac35"}},"noArticulos":2.0}
+{"_id":{"name":"asrock socket lga 1150 atx","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac39"}},"noArticulos":2.0}
+{"_id":{"name":"hzxt socket am4 micro atx","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3b"}},"noArticulos":1.0}
+{"_id":{"name":"gigabyte socket am3 micro atx","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac37"}},"noArticulos":1.0}
+{"_id":{"name":"gigabyte socket lga 1151 micro atx","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac37"}},"noArticulos":1.0}
+{"_id":{"name":"aorus socket lga 1151 atx","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac38"}},"noArticulos":1.0}
+{"_id":{"name":"aorus socket lga 1700 micro atx","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac38"}},"noArticulos":1.0}
+{"_id":{"name":"hzxt socket lga 1151 micro atx","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac3b"}},"noArticulos":2.0}
+{"_id":{"name":"aorus socket am4 micro atx","idMarca":{"$oid":"6224b849b0c9fb3d4bc6ac38"}},"noArticulos":2.0}
+{"_id":{"name":"Teclado Krom Kernel","idMarca":null},"noArticulos":3.0}
+{"_id":{"name":"Raton Logitech G203","idMarca":null},"noArticulos":4.0}
+{"_id":{"name":"Raton Razer","idMarca":null},"noArticulos":3.0}
+{"_id":{"name":"Pantalla LG","idMarca":null},"noArticulos":6.0}
+{"_id":{"name":"Pantalla AOC","idMarca":null},"noArticulos":6.0}
+{"_id":{"name":"Raton Steelseries","idMarca":null},"noArticulos":1.0}
+{"_id":{"name":"Raton Corsair Pro","idMarca":null},"noArticulos":7.0}
+{"_id":{"name":"Teclado Hyperx","idMarca":null},"noArticulos":1.0}
+{"_id":{"name":"Raton Newskill","idMarca":null},"noArticulos":1.0}
+{"_id":{"name":"Raton Hyperex","idMarca":null},"noArticulos":1.0}
+{"_id":{"name":"Pantalla ZOWI","idMarca":null},"noArticulos":2.0}
+{"_id":{"name":"Cascos Corsair","idMarca":null},"noArticulos":2.0}
+{"_id":{"name":"Teclado Logitech","idMarca":null},"noArticulos":3.0}
+{"_id":{"name":"Cascos Razer Barrakuda","idMarca":null},"noArticulos":1.0}
+{"_id":{"name":"Teclado Corsair","idMarca":null},"noArticulos":5.0}
+{"_id":{"name":"Pantalla MSI","idMarca":null},"noArticulos":1.0}
+{"_id":{"name":"Pantalla Samsung","idMarca":null},"noArticulos":1.0}
+{"_id":{"name":"Teclado Razer Blackwidow","idMarca":null},"noArticulos":8.0}
+{"_id":{"name":"Raton Logitech G502","idMarca":null},"noArticulos":3.0}

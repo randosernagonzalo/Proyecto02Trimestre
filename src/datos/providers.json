@@ -1,0 +1,15 @@
+{
+    "_id":{
+        "$oid":"6224b849b0c9fb3d4bc6ac35"
+    },
+    "name":"msi",
+    "noProvisiones":3.0
+}
+{"_id":{"$oid":"6224b849b0c9fb3d4bc6ac36"},"name":"asus","noProvisiones":3.0}
+{"_id":{"$oid":"6224b849b0c9fb3d4bc6ac37"},"name":"gigabyte","noProvisiones":4.0}
+{"_id":{"$oid":"6224b849b0c9fb3d4bc6ac38"},"name":"aorus","noProvisiones":5.0}
+{"_id":{"$oid":"6224b849b0c9fb3d4bc6ac39"},"name":"asrock","noProvisiones":3.0}
+{"_id":{"$oid":"6224b849b0c9fb3d4bc6ac3a"},"name":"nvidia","noProvisiones":10.0}
+{"_id":{"$oid":"6224b849b0c9fb3d4bc6ac3b"},"name":"hzxt","noProvisiones":3.0}
+{"_id":{"$oid":"6224b849b0c9fb3d4bc6ac3c"},"name":"amd","noProvisiones":14.0}
+{"_id":{"$oid":"6224b849b0c9fb3d4bc6ac3d"},"name":"intel","noProvisiones":11.0}
